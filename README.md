@@ -44,11 +44,10 @@ All charts and KPI cards update dynamically based on the selected filters.
 
 ## 🖼️ Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+Screenshot 2026-09-21 221254.png
 
 ## 📂 Project File
-
-[Download Power BI Dashboard](Sales_Performance_Dashboard.pbix)
+salesdashboard.pbix
 
 ## 🎯 Project Objective
 
